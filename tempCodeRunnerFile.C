@@ -1,0 +1,1 @@
+ // head =creator(head,40,0);
